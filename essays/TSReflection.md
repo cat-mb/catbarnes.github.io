@@ -3,13 +3,13 @@ layout: essay
 type: essay
 title: "So, typing out script?"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-01-23
 published: true
 labels:
   - Programming languages
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<!-- <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg"> -->
 
 *To type or to script ...*
 
