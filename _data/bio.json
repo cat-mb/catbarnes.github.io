@@ -6,7 +6,7 @@
     "email": "cbarnes3@hawaii.edu",
     "phone": " ",
     "website": "https://cat-mb.github.io/catbarnes.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "cat-mb", "url": "https://github.com/cat-mb" },
@@ -97,10 +97,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "LMU Dean's List",
+      "date": "2022-2024",
+      "awarder": "Loyola Marymount University",
+      "summary": "Recognition given to undergraduate student with a GPA of 3.5 or above."
     },
     {
       "title": "Second place",
