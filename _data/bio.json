@@ -5,39 +5,40 @@
     "picture": "https://github.com/kambergjohnson.png",
     "email": "cbarnes3@hawaii.edu",
     "phone": " ",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "website": "https://cat-mb.github.io/catbarnes.github.io/",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "cat-mb", "url": "https://github.com/cat-mb" },
+      { "network": "linkedin", "username": " ", "url": "https://www.linkedin.com/in/catalina-mb/" },
+      { "network": "twitter", "username": " ", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": " ", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "UI/UX Design" },
+    { "name": "Mobile Application Development" },
+    { "name": "Web Application Development" },
+    { "name": "Cybersecurity" },
+    { "name": "Full-stack Development" } 
+
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Swift", "Python", "HTML/CSS", "JavaScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2027)",
+      "studyType": "B.A.",
+      "startDate": "2025-01-13",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,27 +46,25 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Loyola Marymount University",
+      "position": "Front-end developer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-06-01",
+      "endDate": "2025-01-16",
+      "summary": "Helped concept and develop the mobile application intuEAT",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        ""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "The Los Angeles Loyolan",
+      "position": "UI/UX Designer",
+      "website": "http://laloyolan.com",
+      "startDate": "2023-03-18",
+      "endDate": "2024-12-16",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
       ]
     }
   ],
@@ -104,10 +103,10 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Second place",
+      "date": "2024",
+      "awarder": "LMU ACM Hackathon 2024",
+      "summary": "My team partner and I won second place in the Hackathon. See my portfolio for details."
     }
   ],
   "references": [
