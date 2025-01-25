@@ -17,21 +17,23 @@
   },
   "interests": [
     { "name": "UI/UX Design" },
-    { "name": "Mobile Application Development" },
-    { "name": "Web Application Development" },
+    { "name": "Graphic Design" },
+    { "name": "Mobile Applications" },
+    { "name": "Web Applications" },
     { "name": "Cybersecurity" },
-    { "name": "Full-stack Development" } 
+    { "name": "Full-Stack Development" } 
 
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Swift", "Python", "HTML/CSS", "JavaScript" ]
+      "keywords": [ "Swift", "Python", "HTML/CSS", "JavaScript, TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub"]
+      "keywords": [ "MacOS", "Git/GitHub, Figma, XCode, Google Suite" ]
     }
+    
   ],
   "education": [
     {
@@ -46,12 +48,23 @@
   ],
   "work": [
     {
+      "company": "Ka Leo",
+      "position": "Design Editor",
+      "website": "https://www.manoanow.org/kaleo/",
+      "startDate": "2025-01-24",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
       "company": "Loyola Marymount University",
       "position": "Front-end developer",
       "website": "",
       "startDate": "2024-06-01",
       "endDate": "2025-01-16",
-      "summary": "Helped concept and develop the mobile application intuEAT",
+      "summary": "Helped concept and develop the mobile application, intuEAT, with a team of 3 professors and 5 undergraduates",
       "highlights": [
         ""
       ]
@@ -70,42 +83,30 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "University of Hawai'i at Manoa Department of Art and Art History",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "ʻUmeke Lāʻau Volunteer Deinstall",
+      "startDate": "2024-01-24",
+      "endDate": "Present",
+      "summary": "Helped deconstruct ʻUmeke Lāʻau exhibit",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Picked up basic carpentry skills",
+        "Collaborative effort to organize plan on deinstalling structure without damaging it"
       ]
     }
+
   ],
   "awards": [
     {
       "title": "LMU Dean's List",
       "date": "2022-2024",
       "awarder": "Loyola Marymount University",
-      "summary": "Recognition given to undergraduate student with a GPA of 3.5 or above."
+      "summary": "Recognition given to undergraduate students who earn a GPA of 3.5 or above."
     },
     {
       "title": "Second place",
       "date": "2024",
-      "awarder": "LMU ACM Hackathon 2024",
+      "awarder": "LMU ACM",
       "summary": "My team partner and I won second place in the Hackathon. See my portfolio for details."
     }
   ],
