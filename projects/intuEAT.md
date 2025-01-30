@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT.png
+image: ../img/intuEAT.png
 title: "int2EAT"
 date: 2025
 published: true
@@ -20,11 +20,15 @@ Myself, along with 2 other undergraduates, were in charge of designing the appli
 Show and tell! Here are screenshots of the sequences I created in the app. 
 
 Starting with the Figma designs:
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat Figma/Screenshot 2025-01-29 at 5.34.42 PM.png">
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat Figma/Screenshot 2025-01-29 at 5.34.47 PM.png">
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat Figma/Screenshot 2025-01-29 at 5.34.54 PM.png">
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat Figma/Screenshot 2025-01-29 at 5.34.59 PM.png">
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat Figma/Screenshot 2025-01-29 at 5.35.14 PM.png">
+
+Dashboard:
+<img class="img-fluid" src="../img/In2Eat_Figma/in2Eat_Figma/DASHBOARD.png">
+
+Recipe book:
+<img class="img-fluid" src="../img/In2Eat_Figma/in2Eat_Figma/RECIPEBOOKF.png">
+<img class="img-fluid" src="../img/In2Eat_Figma/in2Eat_Figma/RECIPEBOOKFAV_SEARCH.png">
+<img class="img-fluid" src="../img/In2Eat_Figma/in2Eat_Figma/RECIPEFILTER.png">
+<img class="img-fluid" src="../img/In2Eat_Figma/in2Eat_Figma/RECIPESEARCH_DETAIL.png">
 
 Then, how they look once fully coded into the app using Xcode:
 
