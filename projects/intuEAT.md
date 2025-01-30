@@ -103,4 +103,4 @@ Show and tell! Here are screenshots of the sequences I created in the app.
 ---
 
 ### **Source Code**
-<a href="https://github.com/cat-mb/intuEAT"><i class="large github icon "></i>cat-mb/in2eat</a>
+<a href="https://github.com/cat-mb/intuEAT"><i class="large github icon "></i>in2eat_repo</a>
