@@ -33,25 +33,25 @@ Recipe book:
 Then, how they look once fully coded into the app using Xcode:
 
 Dashboard:
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat App/DASHBOARD_BOTTOM.png">
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat App/DASHBOARD_TOP.png">
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat App/DASHBOARDPIECHART.png">
+<img class="img-fluid" src="../img/in2Eat_App/DASHBOARD_TOP.png">
+<img class="img-fluid" src="../img/in2Eat_App/DASHBOARD_BOTTOM.png">
+<img class="img-fluid" src="../img/in2Eat_App//DASHBOARDPIECHART.png">
 
 Recipe Book:
 
 Recipe Home Page:
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat App/RECIPEBOOKHOME.png">
+<img class="img-fluid" src="../img/in2Eat_App/RECIPEBOOKHOME.png">
 
 Recipe Detail:
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat App/RECIPEDETAIL_TOP.png">
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat App/RECIPEDETAIL_BOTTOM.png">
+<img class="img-fluid" src="../img/in2Eat_App/RECIPEDETAIL_TOP.png">
+<img class="img-fluid" src="../img/in2Eat_App/RECIPEDETAIL_BOTTOM.png">
 
 Recipe Search:
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat App/RECIPESEARCH.png">
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat App/SEARCHCURRY.png">
+<img class="img-fluid" src="../img/in2Eat_App/RECIPESEARCH.png">
+<img class="img-fluid" src="../img/in2Eat_App/SEARCHCURRY.png">
 
 Recipe Filtering:
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat App/FILTEREXPANDED.png">
-<img class="img-fluid" src="/Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT SCs copy/in2Eat App/FILTERVIEW.png">
+<img class="img-fluid" src="../img/in2Eat_App/FILTEREXPANDED.png">
+<img class="img-fluid" src="../img/in2Eat_App/FILTERVIEW.png">
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/cat-mb/intuEAT"><i class="large github icon "></i>cat-mb/in2eat</a>
