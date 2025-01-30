@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: /Users/cat/Desktop/catportfoliosite/catbarnes.github.io/img/intuEAT.png
 title: "int2EAT"
 date: 2025
 published: true
 labels:
-  - Lisp
+  - Xcode
   - GitHub
 summary: "A health application I helped develop alongside an undergraduate team of 5 and 3 professors."
 ---
