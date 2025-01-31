@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/RUPAULDRAG/MICHELLE.png
 title: "The Runway"
 date: 2024
 published: true
