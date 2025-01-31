@@ -1,7 +1,8 @@
+/* small-img.css */
 .small-img {
-  max-width: 200px;
-  height: auto;
-  max-height: 400px;
+  max-width: 100%; /* Make sure the image width is never larger than its container */
+  width: 300px; /* Or you can set a fixed width like 300px */
+  height: auto; /* Maintain the aspect ratio */
 }
 
 .image-group {
@@ -16,4 +17,5 @@
   font-weight: bold;
   font-size: 1.2em;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
