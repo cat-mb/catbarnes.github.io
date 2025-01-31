@@ -50,55 +50,40 @@ Show and tell! Here are screenshots of the sequences I created in the app.
 
 ### **Coded Screens in Xcode**
 
-<figure class="text-center">
-  <figcaption>Dashboard (Figma Design)</figcaption>
-  <img class="img-fluid small-img" src="../img/In2Eat_Figma/in2Eat_Figma/DASHBOARD.png">
-</figure>
+<h2 class="section-title">Coded Screens in Xcode</h2>
 
-<figure class="text-center">
-  <figcaption>Recipe Book (Figma Design)</figcaption>
-  <img class="img-fluid small-img" src="../img/In2Eat_Figma/in2Eat_Figma/RECIPEBOOKF.png">
-</figure>
+<div class="image-group">
+  <figure class="text-center">
+    <figcaption>Dashboard (Xcode Implementation)</figcaption>
+    <img class="img-fluid small-img" src="../img/in2Eat_App/DASHBOARD_TOP.png">
+    <img class="img-fluid small-img" src="../img/in2Eat_App/DASHBOARD_BOTTOM.png">
+    <img class="img-fluid small-img" src="../img/in2Eat_App/DASHBOARDPIECHART.png">
+  </figure>
+  
+  <figure class="text-center">
+    <figcaption>Recipe Home Page</figcaption>
+    <img class="img-fluid small-img" src="../img/in2Eat_App/RECIPEBOOKHOME.png">
+  </figure>
+  
+  <figure class="text-center">
+    <figcaption>Recipe Detail</figcaption>
+    <img class="img-fluid small-img" src="../img/in2Eat_App/RECIPEDETAIL_TOP.png">
+    <img class="img-fluid small-img" src="../img/in2Eat_App/RECIPEDETAIL_BOTTOM.png">
+  </figure>
+  
+  <figure class="text-center">
+    <figcaption>Recipe Search</figcaption>
+    <img class="img-fluid small-img" src="../img/in2Eat_App/RECIPESEARCH.png">
+    <img class="img-fluid small-img" src="../img/in2Eat_App/SEARCHCURRY.png">
+  </figure>
+  
+  <figure class="text-center">
+    <figcaption>Recipe Filtering</figcaption>
+    <img class="img-fluid small-img" src="../img/in2Eat_App/FILTEREXPANDED.png">
+    <img class="img-fluid small-img" src="../img/in2Eat_App/FILTERVIEW.png">
+  </figure>
+</div>
 
-<figure class="text-center">
-  <figcaption>Recipe Book Search (Figma Design)</figcaption>
-  <img class="img-fluid small-img" src="../img/In2Eat_Figma/in2Eat_Figma/RECIPEBOOKFAV_SEARCH.png">
-</figure>
-
-<figure class="text-center">
-  <figcaption>Recipe Filtering (Figma Design)</figcaption>
-  <img class="img-fluid small-img" src="../img/In2Eat_Figma/in2Eat_Figma/RECIPEFILTER.png">
-</figure>
-
-<figure class="text-center">
-  <figcaption>Dashboard (Xcode Implementation)</figcaption>
-  <img class="img-fluid small-img" src="../img/in2Eat_App/DASHBOARD_TOP.png">
-  <img class="img-fluid small-img" src="../img/in2Eat_App/DASHBOARD_BOTTOM.png">
-  <img class="img-fluid small-img" src="../img/in2Eat_App/DASHBOARDPIECHART.png">
-</figure>
-
-<figure class="text-center">
-  <figcaption>Recipe Home Page</figcaption>
-  <img class="img-fluid small-img" src="../img/in2Eat_App/RECIPEBOOKHOME.png">
-</figure>
-
-<figure class="text-center">
-  <figcaption>Recipe Detail</figcaption>
-  <img class="img-fluid small-img" src="../img/in2Eat_App/RECIPEDETAIL_TOP.png">
-  <img class="img-fluid small-img" src="../img/in2Eat_App/RECIPEDETAIL_BOTTOM.png">
-</figure>
-
-<figure class="text-center">
-  <figcaption>Recipe Search</figcaption>
-  <img class="img-fluid small-img" src="../img/in2Eat_App/RECIPESEARCH.png">
-  <img class="img-fluid small-img" src="../img/in2Eat_App/SEARCHCURRY.png">
-</figure>
-
-<figure class="text-center">
-  <figcaption>Recipe Filtering</figcaption>
-  <img class="img-fluid small-img" src="../img/in2Eat_App/FILTEREXPANDED.png">
-  <img class="img-fluid small-img" src="../img/in2Eat_App/FILTERVIEW.png">
-</figure>
 ---
 
 ### **Source Code**
