@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/intuEAT.png
+image: img/CARROTMAN.png
 title: "int2EAT"
 date: 2025
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A health application I helped develop alongside an undergraduate team of 5 and 3 professors."
 ---
 
-<img class="img-fluid" src="img/intuEAT.png">
+<img class="img-fluid" src="../img/intuEAT.png">
 
 The health app, In2EAT, was created and concepted by Drs. Korpusik, Yazdansepas, and Almstedt. With the help of 5 undergraduates including myself, we were able to design, develop, and fully launch In2Eat into the app store. The process behind creating this app taught me a lot of skills ... especially with full-stack development. 
 
