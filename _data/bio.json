@@ -10,9 +10,8 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "cat-mb", "url": "https://github.com/cat-mb" },
-      { "network": "linkedin", "username": " ", "url": "https://www.linkedin.com/in/catalina-mb/" },
-      { "network": "twitter", "username": " ", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": " ", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": " ", "url": "https://www.linkedin.com/in/catalina-mb/" }
+      
     ]
   },
   "interests": [
@@ -42,7 +41,7 @@
       "studyType": "B.A.",
       "startDate": "2025-01-13",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "ICS 111", "ICS 314"
       ]
     }
   ],
@@ -53,20 +52,19 @@
       "website": "https://www.manoanow.org/kaleo/",
       "startDate": "2025-01-24",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Maintain and manage the main website for Ka Leo",
       "highlights": [
-        ""
+        "Collaboration", "BLOX CMS", "Organization", "Web Design"
       ]
     },
     {
       "company": "Loyola Marymount University",
-      "position": "Front-end developer",
-      "website": "",
+      "position": "Full-stack developer",
       "startDate": "2024-06-01",
       "endDate": "2025-01-16",
       "summary": "Helped concept and develop the mobile application, intuEAT, with a team of 3 professors and 5 undergraduates",
       "highlights": [
-        ""
+        "Swift", "Figma", "Collaboration", "Xcode", "Full-stack development"
       ]
     },
     {
@@ -75,16 +73,15 @@
       "website": "http://laloyolan.com",
       "startDate": "2023-03-18",
       "endDate": "2024-12-16",
-      "summary": "",
+      "summary": "Maintained and managed the website for the Los Angeles Loyolan. Worked with other section editors to design and publish special edition pages.",
       "highlights": [
-        ""
+        "Design", "Communication", "Leadership"
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "University of Hawai'i at Manoa Department of Art and Art History",
-      "website": "",
       "position": "ʻUmeke Lāʻau Volunteer Deinstall",
       "startDate": "2024-01-24",
       "endDate": "Present",
@@ -107,7 +104,7 @@
       "title": "Second place",
       "date": "2024",
       "awarder": "LMU ACM",
-      "summary": "My team partner and I won second place in the Hackathon. See my portfolio for details."
+      "summary": "My team partner and I won second place in the Hackathon for our website, 'Tranquil'. See my portfolio for details."
     }
   ],
   "references": [
