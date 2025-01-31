@@ -1,7 +1,6 @@
 /* small-img.css */
 .small-img {
-  max-width: 100%; /* Make sure the image width is never larger than its container */
-  width: 300px; /* Or you can set a fixed width like 300px */
+  max-width: 80%; /* Make sure the image width is never larger than its container */
   height: auto; /* Maintain the aspect ratio */
 }
 
