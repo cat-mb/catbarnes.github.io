@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/TranquilUI/HOMESC.png
+image: img/TranquilUI/CROPPEDHOMESC.png
 title: "Tranquil"
 date: 2024
 published: true
