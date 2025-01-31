@@ -19,6 +19,8 @@ Myself, along with 2 other undergraduates, were in charge of designing the appli
 
 Show and tell! Here are screenshots of the sequences I created in the app. 
 
+This means it's updated
+
 ### **Figma Designs**
 
 <figure class="text-center">
