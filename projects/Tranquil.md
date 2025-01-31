@@ -16,32 +16,35 @@ summary: "Front-end developed the UI for 'Tranquil' alongside a friend who devel
 <figure class="text-center">
   <figcaption>Tranquil Demo</figcaption>
   <video class="img-fluid w-50" controls autoplay loop muted>
-    <source src="..img/TranquilUI/WALKTHRU.mp4" type="video/mp4">
+    <source src="../img/TranquilUI/WALKTHRU.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </figure>
+
 
 ### **Figma Designs**
 
 <figure class="text-center">
   <figcaption>Home</figcaption>
-  <img class="img-fluid w-50" src="..img/TranquilUI/MAINPAGE.png">
+  <img class="img-fluid w-50" src="../img/TranquilUI/MAINPAGE.png">
 </figure>
 
 <figure class="text-center">
   <figcaption>About + Contact</figcaption>
-  <img class="img-fluid w-50" src="..img/TranquilUI/ABOUT_CONTACT.png">
+  <img class="img-fluid w-50" src="../img/TranquilUI/ABOUT_CONTACT.png">
 </figure>
 
 <figure class="text-center">
   <figcaption>Activities</figcaption>
-  <img class="img-fluid w-50" src="..img/TranquilUI/ACTIVITIES.png">
+  <img class="img-fluid w-50" src="../img/TranquilUI/ACTIVITIES.png">
 </figure>
 
 <figure class="text-center">
   <figcaption>Resources</figcaption>
-  <img class="img-fluid w-50" src="..img/TranquilUI/RESOURCES.png">
+  <img class="img-fluid w-50" src="../img/TranquilUI/RESOURCES.png">
 </figure>
 
+
  
-Source: <a href="https://devpost.com/software/catbell">tranquil</a>
+Try it out: <a href="https://devpost.com/software/catbell">tranquil</a> 
+Side note: the link will only work if you're on chrome!
