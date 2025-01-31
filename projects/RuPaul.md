@@ -18,7 +18,7 @@ summary: "My friend and I developed a project for our mobile application class. 
 
 <figure class="text-center">
   <figcaption>Sign Up</figcaption>
-  <img class="img-fluid w-50" src="../img/RUPAULDRAG/SIGNUP.png">
+  <img class="img-fluid w-50" src="../img/RUPAULDRAG/SIGNUPMICHELLE.png">
 </figure>
 
 <figure class="text-center">
