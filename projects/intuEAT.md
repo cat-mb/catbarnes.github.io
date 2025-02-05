@@ -59,6 +59,8 @@ Show and tell! Here are screenshots of the sequences I created in the app.
     <img class="img-fluid small-img" src="../img/in2Eat_App/DASHBOARD_BOTTOM.png">
     <img class="img-fluid small-img" src="../img/in2Eat_App/DASHBOARDPIECHART.png">
   </figure>
+
+  Each screenshot in this figure is the completed dashboard. It looks different from how the Figma prototyped looked, as working with the back-end meant needing changes on the front-end. Overall though, the new look is still appealing to look at, since the color palette is easy on the eyes and it's easy to navigate around the app using the widgets.
   
   <figure class="text-center">
     <figcaption>Recipe Home Page</figcaption>
