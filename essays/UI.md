@@ -13,7 +13,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="/Users/cat/Desktop/ICS_314/catportfoliosite/catbarnes.github.io/img/graphicdesign.png">
+<img src="img/graphicdesign.png" class="rounded float-start pe-4">
 
 *As the title says ...*
 
